@@ -1,0 +1,16 @@
+com.example.holamundo.app-core-1.8.0-0 C:\Users\alfre\.gradle\caches\transforms-3\30d6bb4173e33d58e20bd44df82a8b0f\transformed\core-1.8.0\res
+com.example.holamundo.app-core-ktx-1.8.0-1 C:\Users\alfre\.gradle\caches\transforms-3\3451ad576643d3285f659ca9af4ee726\transformed\core-ktx-1.8.0\res
+com.example.holamundo.app-leanback-1.0.0-2 C:\Users\alfre\.gradle\caches\transforms-3\3da68b51bc04863f9e1db4defd750f91\transformed\leanback-1.0.0\res
+com.example.holamundo.app-glide-4.11.0-3 C:\Users\alfre\.gradle\caches\transforms-3\4c725274a384f894d0083fd6766ee793\transformed\glide-4.11.0\res
+com.example.holamundo.app-coordinatorlayout-1.0.0-4 C:\Users\alfre\.gradle\caches\transforms-3\78959788d6a632f2921690dfe31aa401\transformed\coordinatorlayout-1.0.0\res
+com.example.holamundo.app-annotation-experimental-1.1.0-5 C:\Users\alfre\.gradle\caches\transforms-3\934e6195222fbf8c900a21d349f92e9d\transformed\annotation-experimental-1.1.0\res
+com.example.holamundo.app-lifecycle-runtime-2.3.1-6 C:\Users\alfre\.gradle\caches\transforms-3\a3368a36507cded800afa4cd9d87635b\transformed\lifecycle-runtime-2.3.1\res
+com.example.holamundo.app-media-1.0.0-7 C:\Users\alfre\.gradle\caches\transforms-3\ca27e199bae5c6aa69d3405702e074a5\transformed\media-1.0.0\res
+com.example.holamundo.app-recyclerview-1.0.0-8 C:\Users\alfre\.gradle\caches\transforms-3\f66729605589db9db6b63f7d2b311d57\transformed\recyclerview-1.0.0\res
+com.example.holamundo.app-pngs-9 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\build\generated\res\pngs\debug
+com.example.holamundo.app-resValues-10 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\build\generated\res\resValues\debug
+com.example.holamundo.app-packageDebugResources-11 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.holamundo.app-packageDebugResources-12 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.holamundo.app-merged_res-13 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\build\intermediates\merged_res\debug
+com.example.holamundo.app-debug-14 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\src\debug\res
+com.example.holamundo.app-main-15 C:\Users\alfre\OneDrive\Documentos\Android\holamundo\app\src\main\res
